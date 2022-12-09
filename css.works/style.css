@@ -80,7 +80,6 @@ font-family: Montserrat;
 font-size: 14px;
 font-weight: 700;
 line-height: 24px;
-letter-spacing: 0.20000000298023224px;
 text-align: center;
    vertical-align: top;
   color:  rgba(255, 255, 255, 1); 
@@ -147,7 +146,6 @@ font-family: Montserrat;
 font-size: 58px;
 font-weight: 700;
 line-height: 80px;
-letter-spacing: 0.20000000298023224px;
 text-align: left;
 margin-top: 10px; 
 margin-left: 112px;
@@ -229,23 +227,9 @@ color:  rgba(255, 255, 255, 1);
 
 
 
-
-
-     
-    
-
-
-
-
-
-
-
-
-
 .login {
     height: 22px;
 width: 41px;
-border-radius: undefinedpx;
 font-family: Montserrat;
 font-size: 14px;
 font-weight: 700;
@@ -256,35 +240,3 @@ text-align: right;
   margin-left: 110px;
 
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-
-
-
-
-
-
-
- 
-
-
-
-
-
-
-    
-
-
