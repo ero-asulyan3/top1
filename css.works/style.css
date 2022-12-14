@@ -13,20 +13,7 @@
     
     
     
-   
 
-    
-    
-     
-
-   
-        
-    
-           
-    
-   
-    
-    
 
 
 
@@ -55,10 +42,9 @@ header{
 width: 43px;
 left: 0px;
 top: 0px;
-border-radius: nullpx;
-     margin-left: 29px;
-     margin-top: 30px;
-      padding-right:  45px; 
+ margin-left: 23px;
+ margin-top: 30px;
+  padding-right:  45px; 
 font-family: Montserrat;
 font-size: 14px;
 font-weight: 700px;
@@ -75,7 +61,6 @@ text-align: center;
 width: 43px;
 left: 0px;
 top: 0px;
-border-radius: nullpx;
 font-family: Montserrat;
 font-size: 14px;
 font-weight: 700;
@@ -94,8 +79,6 @@ text-align: center;
 width: 145px;
 left: 0px;
 top: 13px;
-border-radius: nullpx;
-font-family: Montserrat;
 font-size: 24px;
 font-weight: 700px;
 line-height: 32px;
@@ -141,8 +124,6 @@ border-radius: 0px;
 width: 542px;
 left: 0px;
 top: 54px;
-border-radius: nullpx;
-font-family: Montserrat;
 font-size: 58px;
 font-weight: 700;
 line-height: 80px;
@@ -157,10 +138,9 @@ margin-left: 112px;
 width: 77px;
 left: 0px;
 top: 0px;
-border-radius: nullpx;
-   margin-top: 145px; 
-   margin-left: 113px;
-   color:  rgba(35, 166, 240, 1);
+ margin-top: 145px; 
+ margin-left: 113px;
+ color:  rgba(35, 166, 240, 1);
    
 }
 
@@ -173,8 +153,7 @@ border-radius: nullpx;
     width: 376px;
     left: 0px;
     top: 244px;
-    border-radius: nullpx;
-    font-family: Montserrat;
+    font-family: arial;
     font-size: 20px;
     font-weight: 400;
     line-height: 30px;
@@ -183,8 +162,6 @@ border-radius: nullpx;
 }
    
  
-
-
 
 
 .button-2{
@@ -206,11 +183,12 @@ color:  rgba(255, 255, 255, 1);
     background: rgba(37, 43, 66, 1);
     padding: 8px 30px;
     border: 1px solid #23a6f0;
-    color: #23a6f0;
-    border-radius: 2px;
-    width: 170px;
-    height: 49px;
+    color:  #23a6f0; 
+    border-radius: 3px;
+    width: 163px;
+    height: 50px;
     margin-left: 5px;
+    
     
 
     
@@ -230,13 +208,12 @@ color:  rgba(255, 255, 255, 1);
 .login {
     height: 22px;
 width: 41px;
-font-family: Montserrat;
 font-size: 14px;
 font-weight: 700;
 line-height: 22px;
 text-align: right;
   padding-left: 100px;
   margin-top: 30px;
-  margin-left: 110px;
+  margin-left: 130px;
 
 }
